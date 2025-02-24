@@ -1,0 +1,33 @@
+.main-room img{
+    height: 636px;
+    width: 100%;
+}
+.col-5{
+    background-color: rgb(249, 246, 242);
+}
+h2{
+    letter-spacing: 15px;
+}
+.main-room {
+    position: relative;
+    height: 600px; 
+}
+.navigation-icons .btn {
+    width: 50px;
+    height: 50px;
+}
+li .nav-link{
+    transition: all 0.5s ease;
+}
+li .nav-link:hover{
+    color: black;
+    transform: scale(1.1);
+}
+.navbar{
+    background-color: #a2793c7a;
+    width: auto;
+    position: absolute;
+    left: 0;
+    border-right: 4px solid rgba(255, 255, 255, 0.871);
+    border-radius: 50px;
+}
